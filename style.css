@@ -157,7 +157,7 @@ body {
 .switch {
   position: fixed;
   top: 15px;
-  right: 6%;
+  right: 45px;
   color: #555;
 }
 .dark .switch {
